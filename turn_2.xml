@@ -2,7 +2,7 @@
   <block type="movement_setmotors" id="11" inline="true" x="144" y="193">
     <value name="BOTHMOVLEFT">
       <block type="math_number" id="22">
-        <field name="NUM">95</field>
+        <field name="NUM">93</field>
       </block>
     </value>
     <value name="BOTHMOVRIGHT">
